@@ -228,6 +228,19 @@ The dashboard includes analysis such as:
 
 The dashboard also supports filtering and comparison across vehicles.
 
+## 📊 Dashboard Preview
+
+### Power BI Dashboard
+
+![DriveIQ Dashboard Overview](screenshots/dashboard_overview.png)
+
+![DriveIQ Dashboard Analysis](screenshots/dashboard_analysis.png)
+
+![DriveIQ Dashboard Insights](screenshots/dashboard_insights.png)
+
+### Streamlit Application
+
+![DriveIQ Streamlit Application](screenshots/streamlit_app.png)
 ---
 
 # 🗄️ Database Design
